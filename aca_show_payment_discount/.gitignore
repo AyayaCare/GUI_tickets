@@ -1,0 +1,11 @@
+# personal configuration
+appsettings.json
+appsettings.Development.json
+*.user
+*.suo
+# compitalion folders
+bin/
+obj/
+
+#IDE configuration
+.idea/
